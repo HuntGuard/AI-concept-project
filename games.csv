@@ -1,0 +1,136 @@
+id,title,year,genres,tags,description
+1,The Legend of Zelda: Breath of the Wild,2017,Adventure|Action,Open World|Exploration|Fantasy|Puzzle|Physics|Singleplayer,Explore a vast fantasy kingdom freely while climbing anything and solving shrine puzzles to defeat an ancient evil.
+2,God of War,2018,Action|Adventure,Mythology|Story Rich|Hack and Slash|Singleplayer|Father-Son Story,A hardened warrior and his son travel through Norse realms in a story driven adventure with brutal melee combat.
+3,Devil May Cry 5,2019,Action,Hack and Slash|Stylish Action|Demons|Combos|Singleplayer,Three demon hunters fight stylish combo driven battles against hordes of demons in a fast paced action game.
+4,Sekiro: Shadows Die Twice,2019,Action|Adventure,Souls-like|Difficult|Ninja|Samurai|Singleplayer,A shinobi seeks revenge in feudal Japan through precise sword duels and stealth in a demanding action adventure.
+5,Assassin's Creed Odyssey,2018,Action|RPG,Open World|Historical|Stealth|Ancient Greece|Singleplayer,A mercenary explores ancient Greece through a huge open world with sword combat and branching dialogue choices.
+6,Batman: Arkham City,2011,Action|Adventure,Superhero|Open World|Stealth|Combat|Singleplayer,Batman fights criminals inside a walled city prison using gadgets stealth and fluid freeflow combat.
+7,Grand Theft Auto V,2013,Action|Adventure,Open World|Crime|Multiplayer|Driving|Shooting,Three criminals pull off heists across a sprawling modern city with driving shooting and an online mode.
+8,Red Dead Redemption 2,2018,Action|Adventure,Open World|Western|Story Rich|Realistic|Singleplayer,An outlaw gang struggles to survive at the end of the wild west in a highly detailed open world story.
+9,Marvel's Spider-Man,2018,Action|Adventure,Superhero|Open World|Story Rich|Web-Swinging|Singleplayer,Swing across New York City as a veteran Spider-Man fighting crime in a cinematic open world adventure.
+10,Hades,2020,Roguelike|Action,Roguelite|Mythology|Hack and Slash|Replayable|Singleplayer,Fight out of the underworld as a prince of hell in fast action runs that progress the story with every escape attempt.
+11,Dead Cells,2018,Roguelike|Platformer|Action,Metroidvania|Roguelite|Pixel Graphics|Difficult|Singleplayer,Fight through an ever changing castle in a fast paced roguelite with metroidvania style exploration.
+12,Hollow Knight,2017,Platformer|Adventure,Metroidvania|Difficult|Atmospheric|Hand-Drawn|Singleplayer,Explore a vast ruined insect kingdom full of bosses secrets and haunting atmosphere in a hand drawn adventure.
+13,Celeste,2018,Platformer,Precision Platformer|Difficult|Story Rich|Pixel Graphics|Emotional,Climb a dangerous mountain through challenging precise platforming screens with a heartfelt story about self doubt.
+14,Super Mario Odyssey,2017,Platformer|Adventure,3D Platformer|Colorful|Family Friendly|Collectathon|Singleplayer,A plumber hero travels across kingdoms using a living hat to capture enemies and collect moons.
+15,Cuphead,2017,Platformer|Action,Run and Gun|Boss Rush|Difficult|Hand-Drawn|Co-op,Fight tough bosses in a run and gun game styled after cartoons from the 1930s.
+16,Ori and the Blind Forest,2015,Platformer|Adventure,Metroidvania|Atmospheric|Emotional|Beautiful|Singleplayer,A guardian spirit explores a dying forest in a beautiful and emotional platform adventure.
+17,Sonic Mania,2017,Platformer,Retro|Fast-Paced|Pixel Graphics|Classic|Singleplayer,A speedy hedgehog races through remixed classic zones in a nostalgic two dimensional platformer.
+18,Rayman Legends,2013,Platformer,Co-op|Colorful|Music|Family Friendly|Local Multiplayer,A colorful platformer with musical levels and drop in cooperative play for up to four players.
+19,The Witcher 3: Wild Hunt,2015,RPG|Adventure,Open World|Fantasy|Story Rich|Choices Matter|Monsters|Singleplayer,A monster hunter searches for his adopted daughter across a vast fantasy world shaped by player choices.
+20,The Elder Scrolls V: Skyrim,2011,RPG|Adventure,Open World|Fantasy|Dragons|Exploration|Moddable|Singleplayer,Become a dragon slayer in a snowy northern province with freedom to explore join factions and build any character.
+21,Dark Souls III,2016,RPG|Action,Souls-like|Difficult|Dark Fantasy|Atmospheric|Singleplayer,Face punishing bosses and eerie ruined kingdoms in a dark fantasy action role playing game.
+22,Elden Ring,2022,RPG|Action,Open World|Souls-like|Dark Fantasy|Difficult|Exploration|Co-op,Explore a vast fantasy land full of dangerous enemies and giant bosses in a challenging open world role playing game.
+23,Baldur's Gate 3,2023,RPG|Strategy,Turn-Based Combat|Fantasy|Choices Matter|Co-op|Story Rich|Party-Based,Lead a party of adventurers through a tabletop style fantasy story with deep choices and tactical turn based combat.
+24,Divinity: Original Sin 2,2017,RPG|Strategy,Turn-Based Combat|Fantasy|Co-op|Party-Based|Choices Matter,A tactical fantasy role playing game with reactive worlds elemental combat and cooperative play.
+25,Persona 5 Royal,2019,RPG,JRPG|Anime|Turn-Based Combat|Story Rich|Social Simulation,A student leads a team of phantom thieves by day at school and by night in turn based dungeon battles.
+26,Final Fantasy VII Remake,2020,RPG|Action,JRPG|Story Rich|Fantasy|Sci-Fi|Singleplayer,A mercenary joins an eco terrorist group in a reimagined role playing classic with real time and tactical combat.
+27,Mass Effect 2,2010,RPG|Shooter,Space|Sci-Fi|Story Rich|Choices Matter|Party-Based,Assemble a crew for a dangerous mission in a space opera where decisions decide who survives.
+28,Cyberpunk 2077,2020,RPG|Action,Open World|Cyberpunk|Sci-Fi|Story Rich|Choices Matter|First-Person,A mercenary seeks immortality in a neon futuristic city with branching story and customizable gear.
+29,Fallout 4,2015,RPG|Shooter,Open World|Post-Apocalyptic|Crafting|Exploration|Singleplayer,Emerge from a vault into a ruined wasteland to search for a lost son while building settlements.
+30,Undertale,2015,RPG,Pixel Graphics|Story Rich|Choices Matter|Funny|Great Soundtrack|Indie,A child in an underground world can choose to spare or fight monsters in a quirky story driven game.
+31,Disco Elysium,2019,RPG,Detective|Story Rich|Choices Matter|Text-Heavy|Narrative,A washed up detective solves a murder through dialogue skill checks and inner voices in a text rich role playing game.
+32,Genshin Impact,2020,RPG|Adventure,Open World|Anime|Gacha|Free to Play|Co-op|Fantasy,Travel a fantasy world with elemental powers and a team of collectible characters in a free open world game.
+33,Diablo IV,2023,RPG|Action,Hack and Slash|Dark Fantasy|Loot|Online Co-op|Multiplayer,Slay demons and collect powerful loot in a dark fantasy action role playing game with a shared online world.
+34,DOOM Eternal,2020,Shooter|Action,FPS|Fast-Paced|Demons|Gore|Singleplayer,Rip and tear through hordes of demons in a fast first person shooter that rewards aggression.
+35,Counter-Strike 2,2023,Shooter,FPS|Multiplayer|Competitive|Tactical|Esports|Team-Based,Two teams of terrorists and counter terrorists compete in tactical round based first person matches.
+36,Valorant,2020,Shooter,FPS|Multiplayer|Competitive|Tactical|Hero Shooter|Free to Play|Esports,Five versus five tactical shooter where agents with special abilities attack and defend objectives.
+37,Overwatch 2,2022,Shooter,Hero Shooter|Multiplayer|Team-Based|Free to Play|Competitive,A team based shooter where heroes with unique abilities fight over objectives in colorful arenas.
+38,Call of Duty: Modern Warfare,2019,Shooter,FPS|Military|Multiplayer|Campaign|Realistic,A modern military shooter with a cinematic campaign and large scale online multiplayer.
+39,Halo Infinite,2021,Shooter,FPS|Sci-Fi|Multiplayer|Campaign|Space,A super soldier battles alien enemies in an open campaign and a free online arena mode.
+40,Apex Legends,2019,Battle Royale|Shooter,Battle Royale|Hero Shooter|Free to Play|Team-Based|Multiplayer,Squads of legends with unique abilities fight to be the last team standing in a fast battle royale.
+41,Fortnite,2017,Battle Royale|Shooter,Free to Play|Multiplayer|Building|Cross-Platform|Colorful,One hundred players drop onto an island to build fortifications and fight until one survivor remains.
+42,PUBG: Battlegrounds,2017,Battle Royale|Shooter,Realistic|Multiplayer|Survival|Free to Play|Team-Based,Large scale battle royale where players loot weapons and survive on a shrinking map.
+43,Left 4 Dead 2,2009,Shooter|Horror,Zombies|Co-op|FPS|Multiplayer|Fast-Paced,Four survivors fight through waves of zombies in a cooperative first person shooter.
+44,Titanfall 2,2016,Shooter,FPS|Sci-Fi|Mechs|Parkour|Campaign|Fast-Paced,A rifleman bonds with a giant mech in a fast first person shooter with wall running and a strong campaign.
+45,Borderlands 3,2019,Shooter|RPG,Looter Shooter|Co-op|Humor|FPS|Sci-Fi,Hunt for vaults across planets in a loot driven first person shooter with cooperative play and crude humor.
+46,BioShock Infinite,2013,Shooter|Adventure,FPS|Story Rich|Steampunk|Atmospheric|Singleplayer,A former detective rescues a mysterious woman in a floating city in a story driven first person shooter.
+47,Sid Meier's Civilization VI,2016,Strategy,Turn-Based Strategy|4X|Historical|Empire Building|Singleplayer,Build an empire from the stone age to the future by managing cities research and diplomacy.
+48,StarCraft II,2010,Strategy,RTS|Sci-Fi|Competitive|Esports|Multiplayer,Command one of three space faring races in fast real time strategy battles.
+49,Age of Empires II: Definitive Edition,2019,Strategy,RTS|Historical|Medieval|Multiplayer|Classic,Lead medieval civilizations through economy building and large armies in a classic real time strategy game.
+50,XCOM 2,2016,Strategy,Turn-Based Tactics|Sci-Fi|Permadeath|Aliens|Difficult,Lead a resistance against alien occupiers in tense turn based squad tactics where soldiers can die permanently.
+51,Total War: Three Kingdoms,2019,Strategy,Turn-Based Strategy|Real-Time Tactics|Historical|War|Singleplayer,Unite ancient China by managing a campaign map and commanding large armies in real time battles.
+52,Crusader Kings III,2020,Strategy|Simulation,Grand Strategy|Medieval|Role Playing|Dynasty|Politics,Guide a medieval dynasty through generations of marriage intrigue and warfare.
+53,Into the Breach,2018,Strategy|Puzzle,Turn-Based Tactics|Mechs|Roguelite|Indie|Sci-Fi,Use giant mechs to defend cities from alien monsters in compact puzzle like turn based battles.
+54,Plants vs. Zombies,2009,Strategy,Tower Defense|Zombies|Casual|Family Friendly|Funny,Plant a lawn full of quirky defenders to stop waves of zombies from reaching your house.
+55,Clash Royale,2016,Strategy|Card Game,Mobile|Multiplayer|Free to Play|Real-Time|Competitive,Collect cards and deploy troops in short real time duels to destroy the enemy towers.
+56,Slay the Spire,2019,Strategy|Roguelike,Deckbuilder|Card Game|Roguelite|Turn-Based|Replayable|Singleplayer,Climb a procedurally generated tower by building a deck of cards in a turn based roguelite.
+57,Frostpunk,2018,Strategy|Simulation,City Builder|Survival|Post-Apocalyptic|Atmospheric|Moral Choices,Keep the last city alive in a frozen world while making hard moral decisions about your citizens.
+58,Stellaris,2016,Strategy,Grand Strategy|Space|4X|Sci-Fi|Empire Building,Explore the galaxy and build a space empire through diplomacy research and war.
+59,Hearthstone,2014,Card Game|Strategy,Collectible Card Game|Free to Play|Multiplayer|Fantasy|Competitive,A fantasy themed digital collectible card game with quick two player duels.
+60,League of Legends,2009,MOBA|Strategy,Multiplayer|Competitive|Team-Based|Free to Play|Esports,Two teams of champions battle to destroy the enemy base in a five versus five online arena game.
+61,Dota 2,2013,MOBA|Strategy,Multiplayer|Competitive|Team-Based|Free to Play|Esports|Difficult,A deep team based arena game where five heroes defend and attack an ancient across a lane map.
+62,Mobile Legends: Bang Bang,2016,MOBA,Mobile|Multiplayer|Team-Based|Free to Play|Competitive|Esports,A mobile five versus five arena game with short matches and a roster of heroes with different roles.
+63,Smite,2014,MOBA,Third-Person|Mythology|Multiplayer|Free to Play|Team-Based,A third person arena game where players control gods from many mythologies in team battles.
+64,Minecraft,2011,Sandbox|Survival,Crafting|Open World|Building|Multiplayer|Creative|Family Friendly,Mine resources craft tools and build anything in a procedurally generated blocky world.
+65,Stardew Valley,2016,Simulation|RPG,Farming|Relaxing|Pixel Graphics|Co-op|Life Sim|Cozy,Inherit a farm and build a new life by growing crops raising animals and befriending villagers.
+66,The Sims 4,2014,Simulation,Life Sim|Building|Casual|Customization|Family Friendly,Create people and guide their daily lives while designing homes and neighborhoods.
+67,Cities: Skylines,2015,Simulation|Strategy,City Builder|Management|Building|Sandbox|Moddable,Design and manage a modern city with roads zoning services and traffic.
+68,Euro Truck Simulator 2,2012,Simulation,Driving|Relaxing|Realistic|Open World|Moddable,Deliver cargo across European roads and grow a trucking business in a relaxing driving simulation.
+69,Microsoft Flight Simulator,2020,Simulation,Flight|Realistic|Open World|Relaxing|VR,Fly detailed aircraft across a lifelike recreation of the whole planet.
+70,Animal Crossing: New Horizons,2020,Simulation,Life Sim|Cozy|Customization|Relaxing|Family Friendly|Multiplayer,Develop a deserted island into a personal community with crafting decorating and friendly animal neighbors.
+71,Terraria,2011,Sandbox|Adventure,2D|Crafting|Exploration|Co-op|Building|Pixel Graphics,Dig fight build and explore in a two dimensional sandbox world full of bosses and treasures.
+72,Rust,2018,Survival,Multiplayer|Open World|PvP|Crafting|Base Building,Survive naked on a hostile island by crafting building bases and competing with other players.
+73,Subnautica,2018,Survival|Adventure,Underwater|Open World|Exploration|Crafting|Atmospheric|Sci-Fi,Survive on an ocean planet by exploring deep seas crafting equipment and uncovering a mystery.
+74,The Forest,2018,Survival|Horror,Open World|Crafting|Cannibals|Co-op|Atmospheric,Survive a plane crash on a forested peninsula inhabited by mutant cannibals while crafting shelter.
+75,Valheim,2021,Survival|Sandbox,Viking|Co-op|Crafting|Open World|Base Building|Mythology,Explore and build in a procedurally generated purgatory inspired by Norse myth with friends.
+76,Don't Starve,2013,Survival,Hand-Drawn|Difficult|Crafting|Atmospheric|Dark Humor|Permadeath,Gather resources and craft tools to survive a gothic wilderness where hunger and monsters threaten you.
+77,Raft,2018,Survival,Ocean|Crafting|Co-op|Base Building|Exploration,Survive on a small raft adrift on the ocean by collecting debris and expanding your floating base.
+78,Factorio,2020,Simulation|Strategy,Automation|Factory Building|Base Building|Sandbox|Multiplayer,Build and automate sprawling factories on an alien planet while defending against native creatures.
+79,RimWorld,2018,Simulation|Strategy,Colony Sim|Sci-Fi|Base Building|Management|Story Generator,Manage a colony of stranded survivors while an AI storyteller generates dramatic events.
+80,Kerbal Space Program,2015,Simulation,Space|Physics|Sandbox|Science|Building|Realistic,Design rockets and spacecraft and manage a space program with realistic orbital physics.
+81,Planet Zoo,2019,Simulation,Management|Building|Animals|Family Friendly|Sandbox,Design and manage a zoo while caring for detailed animals and keeping guests happy.
+82,Among Us,2018,Party,Social Deduction|Multiplayer|Casual|Mobile|Free to Play,A crew tries to finish tasks on a spaceship while hidden impostors sabotage them and nobody knows who to trust.
+83,Fall Guys,2020,Party|Platformer,Battle Royale|Multiplayer|Colorful|Casual|Funny|Free to Play,Dozens of jellybean contestants race through silly obstacle courses until one winner remains.
+84,Overcooked! 2,2018,Party|Simulation,Co-op|Cooking|Local Multiplayer|Chaos|Funny|Casual,Work with friends in chaotic kitchens to prepare and serve orders before time runs out.
+85,It Takes Two,2021,Adventure|Platformer,Co-op|Story Rich|Split Screen|Funny|Puzzle,A couple trapped in toy bodies must cooperate through inventive levels in a two player only adventure.
+86,EA Sports FC 24,2023,Sports,Soccer|Multiplayer|Realistic|Competitive|Esports,A football simulation with licensed teams online matches and career modes.
+87,eFootball,2021,Sports,Soccer|Multiplayer|Realistic|Free to Play|Mobile,A free to play football game with realistic matches and online competition.
+88,NBA 2K24,2023,Sports,Basketball|Multiplayer|Realistic|Career Mode|Competitive,A basketball simulation with licensed teams a career story and online modes.
+89,Rocket League,2015,Sports|Racing,Soccer|Cars|Multiplayer|Competitive|Esports|Free to Play,Rocket powered cars play football in fast competitive matches.
+90,Forza Horizon 5,2021,Racing,Open World|Cars|Multiplayer|Beautiful|Driving,Race across a vibrant open world version of Mexico in a huge collection of cars.
+91,Gran Turismo 7,2022,Racing,Realistic|Cars|Driving|Simulation|Singleplayer,A realistic driving simulator with a large car collection and detailed tracks.
+92,Mario Kart 8 Deluxe,2017,Racing,Family Friendly|Local Multiplayer|Colorful|Arcade|Competitive,Race colorful karts and throw items at rivals in a fun arcade racing game for all ages.
+93,Need for Speed: Heat,2019,Racing,Cars|Open World|Street Racing|Police Chase|Arcade,Race by day in legal events and by night in illegal street races while evading the police.
+94,Assetto Corsa,2014,Racing|Simulation,Realistic|Cars|Moddable|Driving|Hardcore,A highly realistic racing simulator with detailed physics and a large modding community.
+95,Tony Hawk's Pro Skater 1 + 2,2020,Sports,Skateboarding|Arcade|Retro|Music|Remake,A remake of two classic skateboarding games with trick combos and a punk soundtrack.
+96,F1 23,2023,Racing|Sports,Formula 1|Realistic|Multiplayer|Career Mode|Cars,Compete in official Formula 1 races with realistic cars and a career mode.
+97,Resident Evil 4,2023,Horror|Action,Survival Horror|Third-Person|Remake|Atmospheric|Singleplayer,An agent rescues the president's daughter from a hostile village in a remake of a survival horror classic.
+98,Resident Evil 2,2019,Horror|Action,Survival Horror|Zombies|Remake|Atmospheric|Singleplayer,Survive a zombie outbreak in a police station in a remake of a survival horror classic.
+99,Outlast,2013,Horror,First-Person|Psychological Horror|Stealth|Gore|Atmospheric|Singleplayer,A journalist explores an abandoned asylum where he has no weapons and can only hide and run.
+100,Five Nights at Freddy's,2014,Horror,Jump Scares|Indie|Survival Horror|Atmospheric|Singleplayer,A night guard must survive animatronic characters that move through a dark pizzeria.
+101,Phasmophobia,2020,Horror,Co-op|Ghosts|Online Co-op|Investigation|Multiplayer|VR,Team up with friends to investigate haunted locations and identify the ghost using special equipment.
+102,Dead Space,2023,Horror|Shooter,Survival Horror|Sci-Fi|Space|Atmospheric|Remake|Gore,An engineer fights mutated creatures aboard a derelict spaceship in a remake of a sci-fi horror classic.
+103,Alien: Isolation,2014,Horror|Adventure,Stealth|Sci-Fi|Atmospheric|Survival Horror|Singleplayer,Evade a single deadly alien on a decaying space station using stealth and clever tools.
+104,Amnesia: The Dark Descent,2010,Horror|Adventure,Psychological Horror|First-Person|Atmospheric|Puzzle|Singleplayer,Explore a dark castle with no weapons while managing your sanity and avoiding terrifying monsters.
+105,Little Nightmares,2017,Horror|Platformer,Atmospheric|Puzzle|Dark|Stealth|Singleplayer,A small child sneaks through a twisted vessel full of grotesque creatures in a dark puzzle platformer.
+106,Dead by Daylight,2016,Horror,Asymmetric|Multiplayer|Survival Horror|Online|Competitive,One killer hunts four survivors in an online asymmetric multiplayer horror game.
+107,Until Dawn,2015,Horror|Adventure,Choices Matter|Story Rich|Cinematic|Interactive Drama|Singleplayer,Eight friends are stalked on a snowy mountain in a slasher story where every choice can change who lives.
+108,Portal 2,2011,Puzzle|Adventure,Physics|First-Person|Co-op|Sci-Fi|Funny|Story Rich,Solve physics puzzles with a portal gun in a laboratory ruled by a sarcastic artificial intelligence.
+109,Tetris Effect,2018,Puzzle,Music|Relaxing|Classic|Colorful|VR,A modern version of the classic block puzzle with music driven visuals and effects.
+110,Monument Valley,2014,Puzzle,Mobile|Atmospheric|Beautiful|Relaxing|Minimalist,Guide a silent princess through impossible architecture in a short and beautiful mobile puzzle game.
+111,The Witness,2016,Puzzle|Adventure,Open World|Exploration|Atmospheric|Difficult|First-Person,Explore a mysterious island filled with hundreds of line drawing puzzles that teach their own rules.
+112,Baba Is You,2019,Puzzle,Logic|Difficult|Indie|Minimalist|2D,Rearrange rules written on the level itself to change how the game works and reach the goal.
+113,Candy Crush Saga,2012,Puzzle,Casual|Mobile|Match 3|Free to Play|Colorful,Match colorful candies to clear levels in a casual mobile puzzle game.
+114,The Last of Us,2013,Action|Adventure,Post-Apocalyptic|Story Rich|Survival|Stealth|Emotional|Singleplayer,A hardened survivor escorts a girl across a ruined country in an emotional story driven survival adventure.
+115,Life is Strange,2015,Adventure,Choices Matter|Story Rich|Episodic|Time Travel|Emotional|Singleplayer,A student discovers she can rewind time and uses it to investigate a disappearance in an episodic narrative game.
+116,Detroit: Become Human,2018,Adventure,Choices Matter|Sci-Fi|Story Rich|Cinematic|Androids|Singleplayer,Follow three androids in a near future story whose branching paths depend on your decisions.
+117,The Walking Dead,2012,Adventure,Choices Matter|Zombies|Story Rich|Episodic|Emotional,Protect a young girl during a zombie apocalypse in an episodic story with tough moral decisions.
+118,Firewatch,2016,Adventure,Story Rich|Exploration|Atmospheric|Walking Simulator|Mystery,A fire lookout in a wilderness uncovers a mystery guided by conversations over a radio.
+119,What Remains of Edith Finch,2017,Adventure,Walking Simulator|Story Rich|Atmospheric|Emotional|Short,Explore a strange family house and relive the stories of how each relative met their end.
+120,Uncharted 4: A Thief's End,2016,Action|Adventure,Cinematic|Story Rich|Treasure Hunting|Third-Person|Singleplayer,A retired treasure hunter returns for one last adventure full of climbing gunfights and puzzles.
+121,Tomb Raider,2013,Action|Adventure,Survival|Story Rich|Exploration|Female Protagonist|Third-Person,A young archaeologist fights to survive after being stranded on a dangerous island.
+122,Ghost of Tsushima,2020,Action|Adventure,Open World|Samurai|Japan|Story Rich|Beautiful|Singleplayer,A samurai defends an island from invaders in an open world adventure with sword duels.
+123,Horizon Zero Dawn,2017,Action|RPG,Open World|Post-Apocalyptic|Robots|Story Rich|Female Protagonist,A hunter explores a lush world ruled by robotic creatures to uncover the secrets of her past.
+124,Street Fighter 6,2023,Fighting,Competitive|Multiplayer|Esports|2D Fighter|Combos,The latest entry of the classic fighting series with a world tour mode and refined competitive combat.
+125,Tekken 8,2024,Fighting,3D Fighter|Competitive|Multiplayer|Esports|Combos|Martial Arts,A three dimensional fighting game with aggressive combat and a long running family drama.
+126,Mortal Kombat 11,2019,Fighting,Gore|Competitive|Multiplayer|Violent|Combos,A brutal fighting game with cinematic finishing moves and a time bending story.
+127,Super Smash Bros. Ultimate,2018,Fighting|Party,Local Multiplayer|Crossover|Competitive|Family Friendly|Platform Fighter,Characters from many franchises battle on shared stages to knock rivals off the screen.
+128,Guilty Gear Strive,2021,Fighting,Anime|2D Fighter|Competitive|Multiplayer|Great Soundtrack|Combos,A stylish anime fighting game with fast combat and a rock soundtrack.
+129,Dragon Ball FighterZ,2018,Fighting,Anime|2D Fighter|Competitive|Multiplayer|Combos|Team-Based,A three versus three anime fighting game with flashy combos and faithful visuals.
+130,Beat Saber,2018,Rhythm,VR|Music|Fast-Paced|Fitness|Singleplayer,Slash flying blocks to the beat of the music with two virtual laser swords.
+131,osu!,2007,Rhythm,Music|Free to Play|Competitive|Multiplayer|Anime|Community,Click circles to the rhythm of music in a free rhythm game with a huge community made song library.
+132,Hi-Fi Rush,2023,Rhythm|Action,Music|Hack and Slash|Colorful|Stylish Action|Singleplayer,A rhythm action game where every attack and enemy move is synchronized to the music.
+133,Doki Doki Literature Club!,2017,Visual Novel,Psychological Horror|Anime|Story Rich|Free to Play|Dating Sim,A free visual novel that starts as a cheerful school story and slowly turns into psychological horror.
+134,Steins;Gate,2009,Visual Novel,Anime|Story Rich|Time Travel|Sci-Fi|Choices Matter,A self proclaimed mad scientist discovers a way to send messages to the past with dire consequences.
+135,Phoenix Wright: Ace Attorney Trilogy,2014,Visual Novel|Adventure,Detective|Courtroom|Story Rich|Funny|Mystery,Defend clients in court by investigating crime scenes and finding contradictions in witness testimony.
